@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hesitationIsDefeat
-- 👀 I’m interested in Coding (Java, C#, Python, R), Sports (Basketball, Calisthenics, Running, Swimming), Music (Mostly Metal and Rock, both playing and listenning to)
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in Coding (Java, C#, Python, R), Sports (Basketball, Calisthenics, Weightlifting, Running, Swimming), Music (Mostly Metal and Rock, both playing and listenning to)
+- 🌱 I’m currently learning Algorithms, Data Structures and working on my 2D Game!
 - 💞️ I’m looking to collaborate on any kinds of coding projects
 - 📫 How to reach me: https://www.linkedin.com/in/onat-tanr%C4%B1%C3%B6ver-a5380a223
 
